@@ -1,4 +1,4 @@
-﻿**DATA VIZUALIZATION MTP**
+﻿**DATA VIZUALIZATION TikTok Trending Content**
 
 **Data Cleaning**
 
@@ -22,7 +22,9 @@ As expected, views tend to be significantly higher for verified videos than for 
 
 We can interpret from the boxplot that the median value (middle quartile) of playcount for videos uploaded from a verified account is greater and music being original or not is insignificant.
 
-![](Aspose.Words.d7f8e0ec-ed35-4cf4-84dc-0a8ebb0023d6.001.png)
+<p align="center">
+<img width="667" alt="Screenshot 2022-10-02 at 22 01 24" src="https://user-images.githubusercontent.com/66077662/193476104-35d9a901-fd2e-4a66-b003-8c798da4c152.png">
+</p>
 
 **Scatterplot**
 
@@ -32,11 +34,9 @@ The aim was to look at different patterns of popularity as playcount with weekda
 
 The Scatterplot shows that the videos uploaded between 18:00 pm and 20:00 pm are the ones with the highest views but also the videos uploaded after noon in general could be expected to gain a considerable number and all the videos uploaded on Tuesdays have gained a sizable number of views over a period when compared to the other days of the week.
 
-
-
-![](Aspose.Words.d7f8e0ec-ed35-4cf4-84dc-0a8ebb0023d6.002.png)
-
-
+<p align="center">
+<img width="684" alt="Screenshot 2022-10-02 at 22 02 06" src="https://user-images.githubusercontent.com/66077662/193476125-6c4698f6-ce21-4dd7-9cbd-e1e1a06207e0.png">
+</p>
 
 **Histogram**
 
@@ -46,5 +46,6 @@ The design of the chart has simplistic features with two colors separating the v
 
 As expected, views tend to be significantly higher for verified videos than for non-verified accounts when uploaded with a duration of 15 sec.
 
-
-![](Aspose.Words.d7f8e0ec-ed35-4cf4-84dc-0a8ebb0023d6.003.png)
+<p align="center">
+<img width="674" alt="Screenshot 2022-10-02 at 21 59 52" src="https://user-images.githubusercontent.com/66077662/193476047-5224d513-937e-4325-b83e-be274b7623e0.png">
+</p>
